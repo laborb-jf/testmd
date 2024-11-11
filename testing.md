@@ -1,7 +1,7 @@
 ---
 title: Testtitel
 description: Das ist ein Test
-background: "#333333"
+background: green
 ---
 
 # Simple Slides
